@@ -1,11 +1,11 @@
-[![MasterHead](https://www.pinterest.com/pin/590041988652342702/)](https://rishavchanda.io)
+![MasterHead](https://images.alphacoders.com/665/665091.jpg)
 <h1 align="center">Hi 👋, I'm Emmanuel Michoti</h1>
 <h3 align="center">A passionate fullstack developer from Kenya</h3>
-<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/114445403/CREATIVE-CODING-EXPLORATIONS-II">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michoti&label=Profile%20views&color=0e75b6&style=flat" alt="michoti" /> </p>
 
-- 🔭 I’m currently working on **Movie Application**
+- 🔭 I’m currently working on a **Movie Application**
 
 - 💬 Ask me about **Laravel, React, Livewire, PostgreSQL**
 
